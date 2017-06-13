@@ -1,0 +1,1 @@
+# jaxenter.de-0028-CoreJava-TypedConstructor
